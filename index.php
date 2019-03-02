@@ -5,6 +5,7 @@
 include ('inc/data.php');
 ?>
 <head>
+  <base href="/">
   <title>Music Database</title>
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
@@ -22,10 +23,44 @@ include ('inc/data.php');
         <li class="list-group-item"><a class="nav-link" href="index.php">All</a></li>
       </ul>
       <ul class="list-group">
-        <li class="list-group-item"><a class="nav-link" href="index.php/?instrument=piano">Piano</a></li>
+        <li class="list-group-item"><a class="nav-link" href="index.php/?instrument=piano">Piano</a>
+          <ul class="grades">
+            <li class="mx-2"><a href="index.php/?instrument=piano&grade=1">Grade 1</a>
+              <ul class="lists">
+                <li class="mx-1"><a href="index.php/?instrument=piano&grade=1&list=a">List A</a></li>
+                <li class="mx-1"><a href="index.php/?instrument=piano&grade=1&list=b">List B</a></li>
+                <li class="mx-1"><a href="index.php/?instrument=piano&grade=1&list=c">List C</a></li>
+              </ul>
+            </li>
+            <li class="mx-2"><a href="index.php/?instrument=piano&grade=2">Grade 2</a>
+              <ul class="lists">
+                <li class="mx-1"><a href="index.php/?instrument=piano&grade=2&list=a">List A</a></li>
+                <li class="mx-1"><a href="index.php/?instrument=piano&grade=2&list=b">List B</a></li>
+                <li class="mx-1"><a href="index.php/?instrument=piano&grade=2&list=c">List C</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
       </ul>
       <ul class="list-group">
-        <li class="list-group-item"><a class="nav-link" href="index.php/?instrument=flute">Flute</a></li>
+        <li class="list-group-item"><a class="nav-link" href="index.php/?instrument=flute">Flute</a>
+          <ul class="grades">
+            <li class="mx-2"><a href="index.php/?instrument=flute&grade=1">Grade 1</a>
+              <ul class="lists">
+                <li class="mx-1"><a href="index.php/?instrument=flute&grade=1&list=a">List A</a></li>
+                <li class="mx-1"><a href="index.php/?instrument=flute&grade=1&list=b">List B</a></li>
+                <li class="mx-1"><a href="index.php/?instrument=flute&grade=1&list=c">List C</a></li>
+              </ul>
+            </li>
+            <li class="mx-2"><a href="index.php/?instrument=flute&grade=2">Grade 2</a>
+              <ul class="lists">
+                <li class="mx-1"><a href="index.php/?instrument=flute&grade=2&list=a">List A</a></li>
+                <li class="mx-1"><a href="index.php/?instrument=flute&grade=2&list=b">List B</a></li>
+                <li class="mx-1"><a href="index.php/?instrument=flute&grade=2&list=c">List C</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
       </ul>
     </nav>
   </header>
