@@ -1,0 +1,7 @@
+.nav{
+  flex-direction: column;
+}
+
+th{
+  color:red;
+}
