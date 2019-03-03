@@ -4,12 +4,12 @@ include ('data.php');
 if(isset($_GET['list'])){
   $list = $_GET['list'];
   $list_subsection = array();
-  foreach($music as $item){
+  foreach($sorted_music as $item){
     if (strtolower($item['List']) == $list){
       $list_subsection[]=$item;
     }
   }
-}else {$list_subsection=$music;}
+}else {$list_subsection=$sorted_music;}
 
 if (isset($_GET['grade'])){
   $grade=$_GET['grade'];
