@@ -71,7 +71,8 @@ include ('inc/data.php');
         <th scope = "col">Title</th>
         <th scope = "col">Grade</th>
         <th scope = "col">List</th>
-        <th scop = "col">Instrument</th>
+        <th scope = "col">Instrument</th>
+        <th scope = "col">Book</th>
       </tr>
       <?php
 
@@ -90,6 +91,9 @@ include ('inc/data.php');
                     . "</td>"
                     . "<td>"
                     . $item['Instrument']
+                    . "</td>"
+                    . "<td>"
+                    . $item['Location']
                     . "</td>"
                     . "</tr>";
           echo $tableoutput;
