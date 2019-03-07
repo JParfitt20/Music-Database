@@ -102,7 +102,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 2,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 2'
+  'Location' => 'LCM Piano Handbook Grade 2'
 ];
 $music[]=[
   'Title' => 'Fanfare',
@@ -110,7 +110,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 2,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 2'
+  'Location' => 'LCM Piano Handbook Grade 2'
 ];
 $music[]=[
   'Title' => 'Courtly Dance',
@@ -118,7 +118,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 2,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 2'
+  'Location' => 'LCM Piano Handbook Grade 2'
 ];
 $music[]=[
   'Title' => 'A Little Song',
@@ -126,7 +126,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 2,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 2'
+  'Location' => 'LCM Piano Handbook Grade 2'
 ];
 $music[]=[
   'Title' => 'The Lonely Traveller',
@@ -134,7 +134,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 2,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 2'
+  'Location' => 'LCM Piano Handbook Grade 2'
 ];
 $music[]=[
   'Title' => 'Watermark',
@@ -142,7 +142,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 2,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 2'
+  'Location' => 'LCM Piano Handbook Grade 2'
 ];
 $music[]=[
   'Title' => 'The Somersault King',
@@ -150,7 +150,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 2,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 2'
+  'Location' => 'LCM Piano Handbook Grade 2'
 ];
 $music[]=[
   'Title' => 'Homework Blues',
@@ -158,7 +158,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 2,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 2'
+  'Location' => 'LCM Piano Handbook Grade 2'
 ];
 $music[]=[
   'Title' => 'Celebration',
@@ -166,7 +166,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 2,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 2'
+  'Location' => 'LCM Piano Handbook Grade 2'
 ];
 $music[]=[
   'Title' => 'Prelude in C',
@@ -174,7 +174,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 3,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 3'
+  'Location' => 'LCM Piano Handbook Grade 3'
 ];
 $music[]=[
   'Title' => 'Allegretto',
@@ -182,7 +182,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 3,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 3'
+  'Location' => 'LCM Piano Handbook Grade 3'
 ];
 $music[]=[
   'Title' => 'Cossack Air',
@@ -190,7 +190,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 3,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 3'
+  'Location' => 'LCM Piano Handbook Grade 3'
 ];
 $music[]=[
   'Title' => 'A Little Song',
@@ -198,7 +198,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 3,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 3'
+  'Location' => 'LCM Piano Handbook Grade 3'
 ];
 $music[]=[
   'Title' => 'From the Rue Vilin',
@@ -206,7 +206,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 3,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 3'
+  'Location' => 'LCM Piano Handbook Grade 3'
 ];
 $music[]=[
   'Title' => 'Dancers of Taranto',
@@ -214,7 +214,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 3,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 3'
+  'Location' => 'LCM Piano Handbook Grade 3'
 ];
 $music[]=[
   'Title' => 'Clowns',
@@ -222,7 +222,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 3,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 3'
+  'Location' => 'LCM Piano Handbook Grade 3'
 ];
 $music[]=[
   'Title' => 'Grouch',
@@ -230,7 +230,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 3,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 3'
+  'Location' => 'LCM Piano Handbook Grade 3'
 ];
 $music[]=[
   'Title' => 'Cicada Sketch',
@@ -238,7 +238,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 3,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 3'
+  'Location' => 'LCM Piano Handbook Grade 3'
 ];
 $music[]=[
   'Title' => 'Presto',
@@ -246,7 +246,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 4,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 4'
+  'Location' => 'LCM Piano Handbook Grade 4'
 ];
 $music[]=[
   'Title' => 'Solfeggio in D',
@@ -254,7 +254,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 4,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 4'
+  'Location' => 'LCM Piano Handbook Grade 4'
 ];
 $music[]=[
   'Title' => 'Invention',
@@ -262,7 +262,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 4,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 4'
+  'Location' => 'LCM Piano Handbook Grade 4'
 ];
 $music[]=[
   'Title' => 'Dedication',
@@ -270,7 +270,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 4,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 4'
+  'Location' => 'LCM Piano Handbook Grade 4'
 ];
 $music[]=[
   'Title' => 'An Ancient Tale',
@@ -278,7 +278,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 4,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 4'
+  'Location' => 'LCM Piano Handbook Grade 4'
 ];
 $music[]=[
   'Title' => 'Senorita',
@@ -286,7 +286,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 4,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 4'
+  'Location' => 'LCM Piano Handbook Grade 4'
 ];
 $music[]=[
   'Title' => "Billie's Song",
@@ -294,7 +294,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 4,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 4'
+  'Location' => 'LCM Piano Handbook Grade 4'
 ];
 $music[]=[
   'Title' => "When Rivers Flowed on Mars",
@@ -302,7 +302,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 4,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 4'
+  'Location' => 'LCM Piano Handbook Grade 4'
 ];
 $music[]=[
   'Title' => "March",
@@ -310,7 +310,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 4,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 4'
+  'Location' => 'LCMPiano Handbook Grade 4'
 ];
 $music[]=[
   'Title' => "Presto",
@@ -318,7 +318,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 5,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 5'
+  'Location' => 'LCM Piano Handbook Grade 5'
 ];
 $music[]=[
   'Title' => "Allegro",
@@ -326,7 +326,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 5,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 5'
+  'Location' => 'LCM Piano Handbook Grade 5'
 ];
 $music[]=[
   'Title' => "Polka",
@@ -334,7 +334,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 5,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 5'
+  'Location' => 'LCM Piano Handbook Grade 5'
 ];
 $music[]=[
   'Title' => "The Boys' Round Dance",
@@ -342,7 +342,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 5,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 5'
+  'Location' => 'LCM Piano Handbook Grade 5'
 ];
 $music[]=[
   'Title' => "In the Owl's Turret",
@@ -350,7 +350,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 5,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 5'
+  'Location' => 'LCM Piano Handbook Grade 5'
 ];
 $music[]=[
   'Title' => "What a Story!",
@@ -358,7 +358,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 5,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 5'
+  'Location' => 'LCM Piano Handbook Grade 5'
 ];
 $music[]=[
   'Title' => "New Orleans Nightfall",
@@ -366,7 +366,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 5,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 5'
+  'Location' => 'LCM Piano Handbook Grade 5'
 ];
 $music[]=[
   'Title' => "Every Morning, Birds",
@@ -374,7 +374,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 5,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 5'
+  'Location' => 'LCM Piano Handbook Grade 5'
 ];
 $music[]=[
   'Title' => "Basket Dance",
@@ -382,7 +382,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 5,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 5'
+  'Location' => 'LCM Piano Handbook Grade 5'
 ];
 $music[]=[
   'Title' => "Solfeggio in C minor",
@@ -390,7 +390,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 6,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 6'
+  'Location' => 'LCM Piano Handbook Grade 6'
 ];
 $music[]=[
   'Title' => "Allegro con spirito",
@@ -398,7 +398,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 6,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 6'
+  'Location' => 'LCM Piano Handbook Grade 6'
 ];
 $music[]=[
   'Title' => "Corroco Molto",
@@ -406,7 +406,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 6,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 6'
+  'Location' => 'LCM Piano Handbook Grade 6'
 ];
 $music[]=[
   'Title' => "Tango",
@@ -414,7 +414,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 6,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 6'
+  'Location' => 'LCM Piano Handbook Grade 6'
 ];
 $music[]=[
   'Title' => "Waltz in Ab",
@@ -422,7 +422,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 6,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 6'
+  'Location' => 'LCM PianoHandbook Grade 6'
 ];
 $music[]=[
   'Title' => "Elegie",
@@ -430,7 +430,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 6,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 6'
+  'Location' => 'LCM Piano Handbook Grade 6'
 ];
 $music[]=[
   'Title' => "Feelin' Good",
@@ -438,7 +438,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 6,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 6'
+  'Location' => 'LCM Piano Handbook Grade 6'
 ];
 $music[]=[
   'Title' => "Railroad (Travel Song)",
@@ -446,7 +446,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 6,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 6'
+  'Location' => 'LCM Piano Handbook Grade 6'
 ];
 $music[]=[
   'Title' => "Forest Musicians",
@@ -454,7 +454,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 6,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 6'
+  'Location' => 'LCM Piano Handbook Grade 6'
 ];
 $music[]=[
   'Title' => "Prelude and Fugue in D Minor",
@@ -462,7 +462,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 8,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 8'
+  'Location' => 'LCM Piano Handbook Grade 8'
 ];
 $music[]=[
   'Title' => "Moderato",
@@ -470,7 +470,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 8,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 8'
+  'Location' => 'LCM Piano Handbook Grade 8'
 ];
 $music[]=[
   'Title' => "Allegro",
@@ -478,7 +478,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 8,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 8'
+  'Location' => 'LCM Piano Handbook Grade 8'
 ];
 $music[]=[
   'Title' => "Allegro",
@@ -486,7 +486,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 8,
   'List' => 'A',
-  'Location' => 'LCM Flute Handbook Grade 8'
+  'Location' => 'LCM Piano Handbook Grade 8'
 ];
 $music[]=[
   'Title' => "Desdemona",
@@ -494,7 +494,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 8,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 8'
+  'Location' => 'LCM Piano Handbook Grade 8'
 ];
 $music[]=[
   'Title' => "Nocturne in F minor",
@@ -502,7 +502,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 8,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 8'
+  'Location' => 'LCM Piano Handbook Grade 8'
 ];
 $music[]=[
   'Title' => "Venise",
@@ -510,7 +510,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 8,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 8'
+  'Location' => 'LCM Pianoe Handbook Grade 8'
 ];
 $music[]=[
   'Title' => "Cortege",
@@ -518,7 +518,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 8,
   'List' => 'B',
-  'Location' => 'LCM Flute Handbook Grade 8'
+  'Location' => 'LCM Piano Handbook Grade 8'
 ];
 $music[]=[
   'Title' => "Nimble Feet",
@@ -526,7 +526,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 8,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 8'
+  'Location' => 'LCM Piano Handbook Grade 8'
 ];
 $music[]=[
   'Title' => "The Man I Love",
@@ -534,7 +534,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 8,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 8'
+  'Location' => 'LCM Piano Handbook Grade 8'
 ];
 $music[]=[
   'Title' => "The Barnyard Song",
@@ -542,7 +542,7 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 8,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 8'
+  'Location' => 'LCM Piano Handbook Grade 8'
 ];
 $music[]=[
   'Title' => "The Drummer",
@@ -550,9 +550,312 @@ $music[]=[
   'Instrument' => 'Piano',
   'Grade' => 8,
   'List' => 'C',
-  'Location' => 'LCM Flute Handbook Grade 8'
+  'Location' => 'LCM Piano Handbook Grade 8'
 ];
-
+$music[]=[
+  'Title' => "1st Movement from Sonata for Flute and Piano",
+  'Composer' => 'Poulenc, Francis',
+  'Instrument' => 'Flute',
+  'Grade' => 8,
+  'List' => 'C',
+  'Location' => 'Sonata for Flute and Piano, Francis Poulenc'
+];
+$music[]=[
+  'Title' => "2nd Movement from Sonata for Flute and Piano",
+  'Composer' => 'Poulenc, Francis',
+  'Instrument' => 'Flute',
+  'Grade' => 7,
+  'List' => 'C',
+  'Location' => 'Sonata for Flute and Piano, Francis Poulenc'
+];
+$music[]=[
+  'Title' => "Sonata in G minor",
+  'Composer' => 'Handel, George Frideric',
+  'Instrument' => 'Flute',
+  'Grade' => 7,
+  'List' => 'B',
+  'Location' => 'Eleven Sonatas for Flute, Barenreiter Urtext'
+];
+$music[]=[
+  'Title' => "1st and 2nd Movements from Sonata in A minor",
+  'Composer' => 'Handel, George Frideric',
+  'Instrument' => 'Flute',
+  'Grade' => 6,
+  'List' => 'B',
+  'Location' => 'Eleven Sonatas for Flute, Barenreiter Urtext'
+];
+$music[]=[
+  'Title' => "Sonata in A minor (HWV 374)",
+  'Composer' => 'Handel, George Frideric',
+  'Instrument' => 'Flute',
+  'Grade' => 8,
+  'List' => 'B',
+  'Location' => 'Eleven Sonatas for Flute, Barenreiter Urtext'
+];
+$music[]=[
+  'Title' => "1st and 2nd Movements from Concerto in G",
+  'Composer' => 'Gluck, Christoph Willibald',
+  'Instrument' => 'Flute',
+  'Grade' => 8,
+  'List' => 'B',
+  'Location' => 'Concerto in G for flute(violin) Chr. W. Gluck'
+];
+$music[]=[
+  'Title' => "2nd and 3rd Movements from Concerto in G",
+  'Composer' => 'Gluck, Christoph Willibald',
+  'Instrument' => 'Flute',
+  'Grade' => 8,
+  'List' => 'B',
+  'Location' => 'Concerto in G for flute(violin) Chr. W. Gluck'
+];
+$music[]=[
+  'Title' => "1st and 2nd Movements from Sonata No. 6 in E major",
+  'Composer' => 'Bach, Johann Sebastian',
+  'Instrument' => 'Flute',
+  'Grade' => 8,
+  'List' => 'B',
+  'Location' => 'Six Sonatas for Flute and Keyboard Book 2'
+];
+$music[]=[
+  'Title' => "1st and 2nd Movements from Sonata No.5 in E minor",
+  'Composer' => 'Bach, Johann Sebastian',
+  'Instrument' => 'Flute',
+  'Grade' => 7,
+  'List' => 'B',
+  'Location' => 'Six Sonatas for Flute and Keyboard Book 2'
+];
+$music[]=[
+  'Title' => "2nd and 3rd Movements from Sonata No.4 in C major",
+  'Composer' => 'Bach, Johann Sebastian',
+  'Instrument' => 'Flute',
+  'Grade' => 6,
+  'List' => 'B',
+  'Location' => 'Six Sonatas for Flute and Keyboard Book 2'
+];
+$music[]=[
+  'Title' => "No. 2",
+  'Composer' => 'Kohler, Ernesto',
+  'Instrument' => 'Flute',
+  'Grade' => 6,
+  'List' => 'A',
+  'Location' => 'Progress in Flute Playing (Op.33) Book 1'
+];
+$music[]=[
+  'Title' => "No. 6",
+  'Composer' => 'Kohler, Ernesto',
+  'Instrument' => 'Flute',
+  'Grade' => 6,
+  'List' => 'A',
+  'Location' => 'Progress in Flute Playing (Op.33) Book 1'
+];
+$music[]=[
+  'Title' => "No. 7",
+  'Composer' => 'Kohler, Ernesto',
+  'Instrument' => 'Flute',
+  'Grade' => 6,
+  'List' => 'A',
+  'Location' => 'Progress in Flute Playing (Op.33) Book 1'
+];
+$music[]=[
+  'Title' => "No. 11",
+  'Composer' => 'Kohler, Ernesto',
+  'Instrument' => 'Flute',
+  'Grade' => 6,
+  'List' => 'A',
+  'Location' => 'Progress in Flute Playing (Op.33) Book 1'
+];
+$music[]=[
+  'Title' => "No. 10",
+  'Composer' => 'Kohler, Ernesto',
+  'Instrument' => 'Flute',
+  'Grade' => 7,
+  'List' => 'A',
+  'Location' => 'Progress in Flute Playing (Op.33) Book 1'
+];
+$music[]=[
+  'Title' => "No. 12",
+  'Composer' => 'Kohler, Ernesto',
+  'Instrument' => 'Flute',
+  'Grade' => 7,
+  'List' => 'A',
+  'Location' => 'Progress in Flute Playing (Op.33) Book 1'
+];
+$music[]=[
+  'Title' => "No. 13",
+  'Composer' => 'Kohler, Ernesto',
+  'Instrument' => 'Flute',
+  'Grade' => 7,
+  'List' => 'A',
+  'Location' => 'Progress in Flute Playing (Op.33) Book 1'
+];
+$music[]=[
+  'Title' => "No. 15",
+  'Composer' => 'Kohler, Ernesto',
+  'Instrument' => 'Flute',
+  'Grade' => 7,
+  'List' => 'A',
+  'Location' => 'Progress in Flute Playing (Op.33) Book 1'
+];
+$music[]=[
+  'Title' => "Madrigal",
+  'Composer' => 'Gaubert, Philippe',
+  'Instrument' => 'Flute',
+  'Grade' => 6,
+  'List' => 'C',
+  'Location' => 'Madrigal for Flute and Piano, Gaubert'
+];
+$music[]=[
+  'Title' => "1st and 2nd Movements from Suite in A minor",
+  'Composer' => 'Telemann, George Philipp',
+  'Instrument' => 'Flute',
+  'Grade' => 6,
+  'List' => 'B',
+  'Location' => 'Telemann Suite in A Minor'
+];
+$music[]=[
+  'Title' => "Gavotte",
+  'Composer' => 'Bach, Johann Sebastian',
+  'Instrument' => 'Flute',
+  'Grade' => 2,
+  'List' => 'B',
+  'Location' => 'Flute Fancies'
+];
+$music[]=[
+  'Title' => "Poem",
+  'Composer' => 'Fibich, Zdenek',
+  'Instrument' => 'Flute',
+  'Grade' => 1,
+  'List' => 'C',
+  'Location' => 'Flute Fancies'
+];
+$music[]=[
+  'Title' => "Rigaudon",
+  'Composer' => 'Purcell, Henry',
+  'Instrument' => 'Flute',
+  'Grade' => 1,
+  'List' => 'B',
+  'Location' => 'Flute Fancies'
+];
+$music[]=[
+  'Title' => "Allegro Moderato",
+  'Composer' => 'Soussmann, Heinrich',
+  'Instrument' => 'Flute',
+  'Grade' => 3,
+  'List' => 'A',
+  'Location' => 'LCM Flute Handbook Grade 3'
+];
+$music[]=[
+  'Title' => "Air",
+  'Composer' => 'Purcell, Henry',
+  'Instrument' => 'Flute',
+  'Grade' => 3,
+  'List' => 'B',
+  'Location' => 'LCM Flute Handbook Grade 3'
+];
+$music[]=[
+  'Title' => "Conversation",
+  'Composer' => 'Turnbull, Kit',
+  'Instrument' => 'Flute',
+  'Grade' => 3,
+  'List' => 'C',
+  'Location' => 'LCM Flute Handbook Grade 3'
+];
+$music[]=[
+  'Title' => "Tarantelle Napolitaine",
+  'Composer' => 'Demersseman, Jules',
+  'Instrument' => 'Flute',
+  'Grade' => 5,
+  'List' => 'A',
+  'Location' => 'LCM Flute Handbook Grade 5'
+];
+$music[]=[
+  'Title' => "Siciliana and Gig",
+  'Composer' => 'Handel, George Frideric',
+  'Instrument' => 'Flute',
+  'Grade' => 5,
+  'List' => 'B',
+  'Location' => 'LCM Flute Handbook Grade 5'
+];
+$music[]=[
+  'Title' => "Processional",
+  'Composer' => 'Turnbull, Kit',
+  'Instrument' => 'Flute',
+  'Grade' => 5,
+  'List' => 'C',
+  'Location' => 'LCM Flute Handbook Grade 5'
+];
+$music[]=[
+  'Title' => "Allegretto",
+  'Composer' => 'Popp, Wilhelm',
+  'Instrument' => 'Flute',
+  'Grade' => 4,
+  'List' => 'A',
+  'Location' => 'LCM Flute Handbook Grade 4'
+];
+$music[]=[
+  'Title' => "Rondeau",
+  'Composer' => 'Purcell, Henry',
+  'Instrument' => 'Flute',
+  'Grade' => 4,
+  'List' => 'B',
+  'Location' => 'LCM Flute Handbook Grade 4'
+];
+$music[]=[
+  'Title' => "Pause for Thought",
+  'Composer' => 'Turnbull, Kit',
+  'Instrument' => 'Flute',
+  'Grade' => 4,
+  'List' => 'C',
+  'Location' => 'LCM Flute Handbook Grade 4'
+];
+$music[]=[
+  'Title' => "Aria from Don Juan",
+  'Composer' => 'Mozart, Wolfgang Amadeus',
+  'Instrument' => 'Flute',
+  'Grade' => 3,
+  'List' => 'B',
+  'Location' => 'A Treasury of Flute Music'
+];
+$music[]=[
+  'Title' => "Menueto",
+  'Composer' => 'Beethoven, Ludwig Van',
+  'Instrument' => 'Flute',
+  'Grade' => 1,
+  'List' => 'B',
+  'Location' => 'A Treasury of Flute Music'
+];
+$music[]=[
+  'Title' => "Allegro Non Troppo",
+  'Composer' => 'Mendelssohn, Felix',
+  'Instrument' => 'Flute',
+  'Grade' => 4,
+  'List' => 'B',
+  'Location' => 'A Treasury of Flute Music'
+];
+$music[]=[
+  'Title' => "Moderato",
+  'Composer' => 'Kohler, Ernesto',
+  'Instrument' => 'Flute',
+  'Grade' => 2,
+  'List' => 'A',
+  'Location' => 'LCM Flute Handbook Grade 2'
+];
+$music[]=[
+  'Title' => "Arietta",
+  'Composer' => 'Grieg, Edvard',
+  'Instrument' => 'Flute',
+  'Grade' => 2,
+  'List' => 'B',
+  'Location' => 'LCM Flute Handbook Grade 2'
+];
+$music[]=[
+  'Title' => "Nightsong",
+  'Composer' => 'Turnbull, Kit',
+  'Instrument' => 'Flute',
+  'Grade' => 2,
+  'List' => 'C',
+  'Location' => 'LCM Flute Handbook Grade 2'
+];
 
 
 
